@@ -1,1 +1,1 @@
-# looping
+# Square of the number
