@@ -1,1 +1,1 @@
-# Square of the number
+# C Language
