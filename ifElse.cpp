@@ -1,4 +1,4 @@
-//conditional statement
+//conditional statement to check greater between 3 nos
 #include<iostream>//inbuilt class
 using namespace std;
 int main()
@@ -16,3 +16,4 @@ int main()
 	
 	return 0;
 }
+
