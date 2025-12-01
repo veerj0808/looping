@@ -1,4 +1,4 @@
-// To get squares of the given numbers
+// To get a series of squares of the given numbers
 
 #include<stdio.h>
 void main()
@@ -12,4 +12,3 @@ void main()
 		printf("square = %d\n",f);
 	}	
 }
-
